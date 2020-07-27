@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+    background-color: black;
+}
+
+.text_box {
+    padding: 50px;
+    width: 50%;
+    align-content: center;
+}
+
+#container{
+    width: 100%;
+    height: 60%;
+    background-color: black;
+    display: flex;
+    margin: 0 auto;
+}
+
+.center_input {
+    width: 40%;
+    display: flex;
+    margin: 20px auto auto;
+}
